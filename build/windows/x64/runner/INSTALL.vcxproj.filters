@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\moham\Desktop\VS code\flutter projects\basketball\build\windows\x64\CMakeFiles\ee5c4af660550d45ca93492f34dfb54b\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B4EAA9FE-28A8-3014-A5B9-0F114B71CAA6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
